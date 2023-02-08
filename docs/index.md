@@ -1,5 +1,5 @@
 # Obsidian Notes
-
+notes
 Publish your public notes with MkDocs
 
 ## Hello World!
