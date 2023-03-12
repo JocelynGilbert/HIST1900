@@ -1,0 +1,9 @@
+The author highlights how competition between businesses and investors drove the creation and upkeep of cable networks while also examining the intricate commercial alliances and rivalries that typified the submarine cable industry. They point out that fierce competition between British and American businesses dominated the sector and frequently took the shape of legal conflicts and financial petty arguments. Müller also looks at the trans atlantic telegraph network's cultural effects, emphasising how it altered communication patterns and aided in the formation of new types of interconnection on a global scale. She points out that the telegraph network opened up new opportunities for quick communication over great distances and supported the development of global trade, diplomacy, and culture. 
+
+- telegraphy = globalization 
+
+- "While individual flows of telegrams are hard to come by for non-elite ordinary public, our chances of understanding communication change fundamentally when we look at the transmittance of global news via telegraph"
+
+- broader political and [[economic]] factors, such as the expansion of corporate capitalism and the emergence of federal regulatory interference, had an impact on the telephone sector. These elements influenced how the telephone industry was structured and organised, as well as how it interacted with other economic sectors.
+
+- The [[conflict]] between the public and private aspects of the [[telephone]] industry is one of the chapter's major themes. On the one hand, the telephone was regarded as a crucial tool for creating social cohesiveness and linking individuals. But, the telephone was also a commodity that was influenced by corporate management and market pressures. In the years to come, the telephone industry would continue to be shaped by this conflict.
