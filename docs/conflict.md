@@ -1,0 +1,1 @@
+conflict is a heated fight and disagreement on a significant issue. Conflict occurs when two individuals or organisations have a significant disagreement or argument and have not yet come to a resolution.

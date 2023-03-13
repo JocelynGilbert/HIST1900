@@ -8,7 +8,7 @@ Beginning the chapter with a discussion of how monopolies developed in the telep
 
 - "Each of these visions of the telephone and its purpose suggested different strategies to the Bell companies’ ﬁrst leaders. How should the telephone marketed, and to whom? Where should telephone lines be built? How should service cost?"
 
-- Bell's efforts to enhance the  [[telegraph]], which he believed was constrained by its reliance on a binary code of dots and dashes, led to the creation of the telephone. Bell's telephone transmitted speech through sound waves, which gave it far more flexibility and nuance.
+- Bell's efforts to enhance the [[telegraph]], which he believed was constrained by its reliance on a binary code of dots and dashes, led to the creation of the telephone. Bell's telephone transmitted speech through sound waves, which gave it far more flexibility and nuance.
 
 - Early efforts by Bell to spread the word about the telephone were delayed by telegraph firms' resistance and mistrust, who saw the telephone as a possible threat to their business model. Bell was able to obtain a patent for the telephone nonetheless, and the Bell Telephone Company was established in 1877.
 

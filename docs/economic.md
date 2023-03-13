@@ -1,0 +1,1 @@
+Products are materials and goods that meet the requirements and desires of consumers. A good may be a tangible item, a service rendered, or a mix of the two. Something can be considered a good if it provides customers with some sort of advantage.

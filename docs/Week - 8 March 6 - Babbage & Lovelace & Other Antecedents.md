@@ -37,7 +37,7 @@ Babbage 
     
 -   Kelvin's tide calculator for different points around the world
     
--   Kelvin proposes in 1876 a way of linking several similar devices together physically to simulate differential equations
+-   Kelvin proposes in [[1876]] a way of linking several similar devices together physically to simulate differential equations
     
 -   the mechanisms to achieve this not developed until the 1920s.... and Vannevar Bush
     

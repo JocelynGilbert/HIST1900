@@ -1,0 +1,3 @@
+A telegram is a message that is sent to someone's home or workplace after being printed and sent via telegraph. The president received a telegraph with a briefing.
+
+Telegrams were the quickest form of written communication during World War One. Governments and war reporters who needed to communicate swiftly and effectively employed telegrams. They were frequently used to communicate the death, capture, or injury of a soldier.

@@ -1,0 +1,3 @@
+a device created to allow for simultaneous voice transmission and receiving. The telephone is a low-cost, easy-to-use method of instantaneous, one-on-one communication that is not available through any other medium.
+
+Telegraphy and telephones: Throughout World War One, telephone communication was preferred. Because of its quickness, commanders could give commands to people who were on the front lines.

@@ -27,8 +27,8 @@ Dates for the 'invention' of the telephone:
 -   ­1864 - Innocenzo Manzetti
 	-   Claims invented telephone 
 
--   [[­1876 - Bell vs Gray
-	-   Patents filed on the exact same day]]
+-  [[1876]] - Bell vs Gray
+	-   Patents filed on the exact same day]
 
 -   ­1878 - Cyrille Duquet
 	-   Combined multiple devices into a single hand set 

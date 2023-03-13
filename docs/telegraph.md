@@ -1,0 +1,1 @@
+A telegraph is a kind of communication where information is sent by establishing and severing an electrical connection. It is most frequently related to encoding Morse code and transmitting electrical current pulses down a wire.
