@@ -1,0 +1,8 @@
+https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/
+
+Benj Edwards describes his experiences as an 11-year-old sysop managing a bulletin board system (BBS) in the early 1990s in his piece "My Hidden Life as an 11-Year-Old BBS Sysop," which was published on Ars Technica. Edwards also talks on the difficulties of managing a BBS, such as the necessity to control user behaviour and make sure the system was functioning properly. He thinks back on the sense of belonging and camaraderie he experienced among BBS users, and how much fun it was to talk to other young people who shared his enthusiasm for [[technology]].
+
+
+“Whereas the Internet is a huge connected web of systems with billions of users, most BBSes were small hobbyist fiefdoms with a single phone line, and only one person could call in and use it at a time.”
+
+-   Benj Edwards describes his experiences as an 11-year-old sysop managing a bulletin board system (BBS) in the early 1990s in his piece "My Hidden Life as an 11-Year-Old BBS Sysop," which was published on Ars Technica. Edwards also talks on the difficulties of managing a BBS, such as the necessity to control user behaviour and make sure the system was functioning properly. He thinks back on the sense of belonging and camaraderie he experienced among BBS users, and how much fun it was to talk to other young people who shared his enthusiasm for technology.
