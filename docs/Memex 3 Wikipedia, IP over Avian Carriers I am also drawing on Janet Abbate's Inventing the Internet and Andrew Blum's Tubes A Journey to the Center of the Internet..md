@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/IP_over_Avian_Carriers
+
+An amusing plan to send internet data packets, also known as IP packets, through carrier pigeons is described in the Wikipedia page "IP via Avian Carriers." The suggestion was released in 1990 as part of the "Request for Comments" (RFC) series, which catalogues the technical requirements and concepts that support the growth of the internet. The article describes how IP packets would be linked to carrier pigeons' legs so that they may fly to their destination and deliver the packets to their intended recipient. The difficulties and restrictions of utilising pigeons for data transmission are also discussed, including their poor pace and potential for data loss owing to predators or bad weather.
+
+
+“IPoAC has been successfully implemented, but for only nine packets of data, with a packet loss ratio of 55% (due to operator error),[2] and a response time ranging from 3,000 seconds (50 min) to over 6,000 seconds (100 min). Thus, this [[technology]] suffers from high latency.[3]”
+
+-   The quote is related to the IP over Avian Carriers real-world testing, which have demonstrated that although it is technically possible to transfer data via carrier pigeons, it is not a practical or effective method of data transmission. Only nine packets of data could be transmitted during the experiments mentioned in the cited passage, and operator mistake was to blame for a high packet loss ratio of 55%.
